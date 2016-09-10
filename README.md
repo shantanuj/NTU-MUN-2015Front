@@ -6,15 +6,16 @@ While the code was rudimentary, I particularly enjoyed using specific UI feature
 
 ![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342097/b07bb112-75df-11e6-9720-345e7af2c5d3.png "Optional title")
 ![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342099/b1a8271e-75df-11e6-9c23-aa1d52e2f0d7.png "Optional title")
-![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342101/b3e3bcd2-75df-11e6-8e56-208b2886b163.png "Optional title")
+![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342109/bb658d1e-75df-11e6-8714-b13e04d102f4.png "Optional title")
 
 First experiences are especially important for a user's impression, and I made sure that there is no lag in image changes by preloading all images using a javascript function to preload images.  
 
 ![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342101/b3e3bcd2-75df-11e6-8e56-208b2886b163.png "Optional title")
 
+2) The home page is built using Bootstrap. Two primary features here are the carousell with embeded links, and the dynamic top scrollable navigation bar. 
 
-![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342101/b3e3bcd2-75df-11e6-8e56-208b2886b163.png "Optional title")
-![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342101/b3e3bcd2-75df-11e6-8e56-208b2886b163.png "Optional title")
+![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342104/b563faf4-75df-11e6-9726-2a827286957d.png "Carousell")
+![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342108/b942e8a6-75df-11e6-9be2-f621be9c1da9.png "Dynamic navigation bar (On scrolling height decreased")
 ![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342101/b3e3bcd2-75df-11e6-8e56-208b2886b163.png "Optional title")
 ![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342101/b3e3bcd2-75df-11e6-8e56-208b2886b163.png "Optional title")
 ![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342101/b3e3bcd2-75df-11e6-8e56-208b2886b163.png "Optional title")
