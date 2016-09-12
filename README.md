@@ -15,6 +15,8 @@ First experiences are especially important for a user's impression, and I made s
 ####2) The home page is built using Bootstrap. Two primary features here are the carousell with embeded links, and the dynamic top scrollable navigation bar. 
 
 ![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342104/b563faf4-75df-11e6-9726-2a827286957d.png "Carousell")
+
+The top navigation bar's height decreases as the users scrolls down.
 ![Alt text](https://cloud.githubusercontent.com/assets/4751368/18342108/b942e8a6-75df-11e6-9be2-f621be9c1da9.png "Dynamic navigation bar (On scrolling becomes narrower")
 
 ####3) The last display that I wished to highlight was the committee tree structure and usage of the Bootstrap modal. 
